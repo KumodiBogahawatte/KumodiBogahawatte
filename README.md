@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumodi Bogahawatte</h1>
 <h3 align="center">Undergraduate at Sri Lanka Institute of Information Technology(SLIIT)</h3>
-
+<h6>BSc (Hons) in Information Technology Specialized in Software Engineering</h6>
 <p>I am eager to contribute to creative initiatives and gain practical experience. I am passionate about improving my abilities in software development, problem-solving, and collaboration, and I am always looking for opportunities to apply my knowledge in real-world scenarios.</p>
 <br>
 
